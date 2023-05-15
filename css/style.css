@@ -1,0 +1,144 @@
+body header{
+
+    display: flex;
+}
+
+header nav ul{
+
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+body{
+    margin: 0%;
+
+    position: absolute;
+    width: 575px;
+    height: 19px;
+    left: 806px;
+    top: 26px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    
+    color: #FFFFFF;
+   
+    background-color: black;
+}
+body header p{
+    position: absolute;
+    width: 157px;
+    height: 29px;
+    left: 82px;
+    bottom: -20px;
+    left: -800px;
+
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    text-align: right;
+    
+    color: #FFFFFF;
+      
+}
+
+div img{
+    position: absolute;
+    width: 1453px;
+    height: 891px;
+    left: -807px;
+    right: 0px;
+    top: 70px;
+    opacity: 70%;
+    background: url(AP_Camilo_Huinca_social-well_2x.jpg);
+
+    
+
+}
+
+#rectangle {
+    width: 1440px;
+    height: 730px;
+    background-color: rgb(216, 42, 42);
+    position: absolute;
+    width: 1440px;
+    height: 730px;
+    left: -807px;
+    top: 961px;
+
+  }
+
+  body main section hr{
+    position: absolute;
+    width: 615px;
+    height: 0px;
+    left: -400px;
+    top: 285px;
+    border: 6px solid #FFFFFF;
+
+}
+
+
+body main section p{
+    position: absolute;
+    width: 391px;
+    height: 63px;
+    left: -300px;
+    top: 324px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 63px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+
+}
+
+body main section nav ul li{
+    position: absolute;
+    width: 385px;
+    height: 39px;
+    left: -300px;
+    right: 2000px;
+    top: 450px;
+    bottom: 200px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+main section hr{
+    position: absolute;
+    width: 126px;
+    height: 0px;
+    left: 658px;
+    top: -200px;
+    
+    border: 8px solid #FFFFFF;
+}
+
